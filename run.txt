@@ -1,0 +1,7 @@
+how to run 
+
+Terminal 1(should be running)(Backend)
+--python -m uvicorn main:app --reload
+
+Terminal 2(it will open the app)
+-- python -m streamlit run streamlit_app.py
